@@ -1,6 +1,7 @@
 import requests
 from datetime import datetime
 import json
+import pandas
 
 #TODO - 1 : explore requests, datetime,time modules in python and import it in this project
 
